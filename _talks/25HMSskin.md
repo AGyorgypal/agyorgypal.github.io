@@ -8,4 +8,4 @@ date: 2025-06-26
 location: "Boston, MA, United States"
 ---
 
-XX
+This invited talk explains how a specific interaction between IgG antibodies and macrophages can reduce itching caused by IgE-allergen complexes. It highlights the protective role of macrophages in calming allergic itch responses.
