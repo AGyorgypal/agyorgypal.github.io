@@ -6,7 +6,7 @@ excerpt: "The importance of glycosylation on IgG function is well established, a
 date: 2025-05-05
 venue: 'Immunological Reviews'
 paperurl: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/imr.70032'
-citation: '<b>Gyorgypal, A.,</b>, Banerhee, S., Conroy M.E., Anthony, R.M., (2024). &quot;Glycobiology of IgE.&quot; <i>Immunological Reviews</i>. 331.1, e70032.'
+citation: '<b>Gyorgypal, A.,</b>, Banergee, S., Conroy M.E., Anthony, R.M., (2025). &quot;Glycobiology of IgE.&quot; <i>Immunological Reviews</i>. 331.1, e70032.'
 
 ---
 
