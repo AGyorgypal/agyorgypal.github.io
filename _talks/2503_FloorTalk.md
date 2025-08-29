@@ -8,3 +8,4 @@ date: 2025-03-20
 location: "Boston, MA, United States"
 ---
 
+IgG’s immune-modulating role can be both beneficial and detrimental. It helps reduce allergic inflammation and promotes tolerance but can also trigger harmful immune activation, increasing inflammation or tissue damage. This balance is key to understanding IgG’s impact on allergy outcomes.
